@@ -1,5 +1,5 @@
 <?php
-namespace Tolima;
+namespace tolima;
 
 class MeasTime{
     private static $startTime;
