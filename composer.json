@@ -1,5 +1,5 @@
 {
-    "name": "tolima/MeasTime",
+    "name": "tolima/meastime",
     "description": "processingtime measurement",
     "type": "library",
     "license": "MIT",
@@ -8,7 +8,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Tolima\\": "src/"
+            "meastime\\": "src/"
         }
     }
 }
